@@ -1,0 +1,21 @@
+obj\Debug\Statement of Accounts.exe
+obj\Debug\Statement of Accounts.xml
+obj\Debug\Statement of Accounts.pdb
+bin\Classes\DataSet\AccountBalance.xsd
+bin\Classes\DataSet\AccountBalance.Designer.vb
+bin\Classes\DataSet\AccountBalance.xsc
+bin\Classes\DataSet\AccountBalance.xss
+bin\Classes\DataSet\AccountBalance.xsx
+bin\Statement of Accounts.exe
+bin\Statement of Accounts.pdb
+bin\Statement of Accounts.xml
+bin\Interop.SAPbobsCOM.dll
+bin\Interop.SAPbouiCOM.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Interop.SAPbobsCOM.dll
+obj\Debug\Interop.SAPbouiCOM.dll
+obj\Debug\Statement of Accounts.vbproj.ResolveComReference.cache
+obj\Debug\StatmentofAccount.AcctStatement - Copy.rpt
+obj\Debug\StatmentofAccount.AcctStatement.rpt
+obj\Debug\StatmentofAccount.frmReportViewer.resources
+obj\Debug\Statement of Accounts.vbproj.GenerateResource.Cache

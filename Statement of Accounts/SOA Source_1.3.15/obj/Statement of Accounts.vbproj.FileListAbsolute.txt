@@ -1,0 +1,484 @@
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20120906 Statement of Accounts_Source_8.82\20120912 SOA Source\bin\Classes\DataSet\AccountBalance.xsd
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20120906 Statement of Accounts_Source_8.82\20120912 SOA Source\bin\Classes\DataSet\AccountBalance.Designer.vb
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20120906 Statement of Accounts_Source_8.82\20120912 SOA Source\bin\Classes\DataSet\AccountBalance.xsc
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20120906 Statement of Accounts_Source_8.82\20120912 SOA Source\bin\Classes\DataSet\AccountBalance.xss
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20120906 Statement of Accounts_Source_8.82\20120912 SOA Source\bin\Classes\DataSet\AccountBalance.xsx
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20120906 Statement of Accounts_Source_8.82\20120912 SOA Source\bin\Statement of Accounts.exe
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20120906 Statement of Accounts_Source_8.82\20120912 SOA Source\bin\Statement of Accounts.pdb
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20120906 Statement of Accounts_Source_8.82\20120912 SOA Source\bin\Statement of Accounts.xml
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20120906 Statement of Accounts_Source_8.82\20120912 SOA Source\bin\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20120906 Statement of Accounts_Source_8.82\20120912 SOA Source\bin\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20120906 Statement of Accounts_Source_8.82\20120912 SOA Source\obj\Debug\ResolveAssemblyReference.cache
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20120906 Statement of Accounts_Source_8.82\20120912 SOA Source\obj\Debug\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20120906 Statement of Accounts_Source_8.82\20120912 SOA Source\obj\Debug\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20120906 Statement of Accounts_Source_8.82\20120912 SOA Source\obj\Debug\Statement of Accounts.vbproj.ResolveComReference.cache
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20120906 Statement of Accounts_Source_8.82\20120912 SOA Source\obj\Debug\StatmentofAccount.AcctStatement.rpt
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20120906 Statement of Accounts_Source_8.82\20120912 SOA Source\obj\Debug\StatmentofAccount.AcctStatement_old1.rpt
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20120906 Statement of Accounts_Source_8.82\20120912 SOA Source\obj\Debug\StatmentofAccount.AcctStatement_SalesPerson.rpt
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20120906 Statement of Accounts_Source_8.82\20120912 SOA Source\obj\Debug\StatmentofAccount.frmReportViewer.resources
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20120906 Statement of Accounts_Source_8.82\20120912 SOA Source\obj\Debug\Statement of Accounts.vbproj.GenerateResource.Cache
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20120906 Statement of Accounts_Source_8.82\20120912 SOA Source\obj\Debug\Statement of Accounts.exe
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20120906 Statement of Accounts_Source_8.82\20120912 SOA Source\obj\Debug\Statement of Accounts.xml
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20120906 Statement of Accounts_Source_8.82\20120912 SOA Source\obj\Debug\Statement of Accounts.pdb
+C:\Users\Tony\Desktop\20120915 SOA Source\bin\Classes\DataSet\AccountBalance.xsd
+C:\Users\Tony\Desktop\20120915 SOA Source\bin\Classes\DataSet\AccountBalance.Designer.vb
+C:\Users\Tony\Desktop\20120915 SOA Source\bin\Classes\DataSet\AccountBalance.xsc
+C:\Users\Tony\Desktop\20120915 SOA Source\bin\Classes\DataSet\AccountBalance.xss
+C:\Users\Tony\Desktop\20120915 SOA Source\bin\Classes\DataSet\AccountBalance.xsx
+C:\Users\Tony\Desktop\20120915 SOA Source\bin\Statement of Accounts.exe
+C:\Users\Tony\Desktop\20120915 SOA Source\bin\Statement of Accounts.pdb
+C:\Users\Tony\Desktop\20120915 SOA Source\bin\Statement of Accounts.xml
+C:\Users\Tony\Desktop\20120915 SOA Source\bin\Interop.SAPbobsCOM.dll
+C:\Users\Tony\Desktop\20120915 SOA Source\bin\Interop.SAPbouiCOM.dll
+C:\Users\Tony\Desktop\20120915 SOA Source\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tony\Desktop\20120915 SOA Source\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\Tony\Desktop\20120915 SOA Source\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Users\Tony\Desktop\20120915 SOA Source\obj\Debug\Statement of Accounts.vbproj.ResolveComReference.cache
+C:\Users\Tony\Desktop\20120915 SOA Source\obj\Debug\StatmentofAccount.AcctStatement.rpt
+C:\Users\Tony\Desktop\20120915 SOA Source\obj\Debug\StatmentofAccount.AcctStatement_old1.rpt
+C:\Users\Tony\Desktop\20120915 SOA Source\obj\Debug\StatmentofAccount.AcctStatement_SalesPerson.rpt
+C:\Users\Tony\Desktop\20120915 SOA Source\obj\Debug\StatmentofAccount.frmReportViewer.resources
+C:\Users\Tony\Desktop\20120915 SOA Source\obj\Debug\Statement of Accounts.vbproj.GenerateResource.Cache
+C:\Users\Tony\Desktop\20120915 SOA Source\obj\Debug\Statement of Accounts.exe
+C:\Users\Tony\Desktop\20120915 SOA Source\obj\Debug\Statement of Accounts.xml
+C:\Users\Tony\Desktop\20120915 SOA Source\obj\Debug\Statement of Accounts.pdb
+C:\Users\Tony\Desktop\20120927 SOA Source\bin\Classes\DataSet\AccountBalance.xsd
+C:\Users\Tony\Desktop\20120927 SOA Source\bin\Classes\DataSet\AccountBalance.Designer.vb
+C:\Users\Tony\Desktop\20120927 SOA Source\bin\Classes\DataSet\AccountBalance.xsc
+C:\Users\Tony\Desktop\20120927 SOA Source\bin\Classes\DataSet\AccountBalance.xss
+C:\Users\Tony\Desktop\20120927 SOA Source\bin\Classes\DataSet\AccountBalance.xsx
+C:\Users\Tony\Desktop\20120927 SOA Source\bin\Statement of Accounts.exe
+C:\Users\Tony\Desktop\20120927 SOA Source\bin\Statement of Accounts.pdb
+C:\Users\Tony\Desktop\20120927 SOA Source\bin\Statement of Accounts.xml
+C:\Users\Tony\Desktop\20120927 SOA Source\bin\Interop.SAPbobsCOM.dll
+C:\Users\Tony\Desktop\20120927 SOA Source\bin\Interop.SAPbouiCOM.dll
+C:\Users\Tony\Desktop\20120927 SOA Source\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tony\Desktop\20120927 SOA Source\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\Tony\Desktop\20120927 SOA Source\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Users\Tony\Desktop\20120927 SOA Source\obj\Debug\Statement of Accounts.vbproj.ResolveComReference.cache
+C:\Users\Tony\Desktop\20120927 SOA Source\obj\Debug\StatmentofAccount.AcctStatement.rpt
+C:\Users\Tony\Desktop\20120927 SOA Source\obj\Debug\StatmentofAccount.AcctStatement_old1.rpt
+C:\Users\Tony\Desktop\20120927 SOA Source\obj\Debug\StatmentofAccount.AcctStatement_SalesPerson.rpt
+C:\Users\Tony\Desktop\20120927 SOA Source\obj\Debug\StatmentofAccount.frmReportViewer.resources
+C:\Users\Tony\Desktop\20120927 SOA Source\obj\Debug\Statement of Accounts.vbproj.GenerateResource.Cache
+C:\Users\Tony\Desktop\20120927 SOA Source\obj\Debug\Statement of Accounts.exe
+C:\Users\Tony\Desktop\20120927 SOA Source\obj\Debug\Statement of Accounts.xml
+C:\Users\Tony\Desktop\20120927 SOA Source\obj\Debug\Statement of Accounts.pdb
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20120927 SOA Source\20120927 SOA Source\bin\Classes\DataSet\AccountBalance.xsd
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20120927 SOA Source\20120927 SOA Source\bin\Classes\DataSet\AccountBalance.Designer.vb
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20120927 SOA Source\20120927 SOA Source\bin\Classes\DataSet\AccountBalance.xsc
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20120927 SOA Source\20120927 SOA Source\bin\Classes\DataSet\AccountBalance.xss
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20120927 SOA Source\20120927 SOA Source\bin\Classes\DataSet\AccountBalance.xsx
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20120927 SOA Source\20120927 SOA Source\bin\Statement of Accounts.exe
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20120927 SOA Source\20120927 SOA Source\bin\Statement of Accounts.pdb
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20120927 SOA Source\20120927 SOA Source\bin\Statement of Accounts.xml
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20120927 SOA Source\20120927 SOA Source\bin\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20120927 SOA Source\20120927 SOA Source\bin\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20120927 SOA Source\20120927 SOA Source\obj\Debug\ResolveAssemblyReference.cache
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20120927 SOA Source\20120927 SOA Source\obj\Debug\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20120927 SOA Source\20120927 SOA Source\obj\Debug\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20120927 SOA Source\20120927 SOA Source\obj\Debug\Statement of Accounts.vbproj.ResolveComReference.cache
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20120927 SOA Source\20120927 SOA Source\obj\Debug\StatmentofAccount.AcctStatement.rpt
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20120927 SOA Source\20120927 SOA Source\obj\Debug\StatmentofAccount.AcctStatement_old1.rpt
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20120927 SOA Source\20120927 SOA Source\obj\Debug\StatmentofAccount.AcctStatement_SalesPerson.rpt
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20120927 SOA Source\20120927 SOA Source\obj\Debug\StatmentofAccount.frmReportViewer.resources
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20120927 SOA Source\20120927 SOA Source\obj\Debug\Statement of Accounts.vbproj.GenerateResource.Cache
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20120927 SOA Source\20120927 SOA Source\obj\Debug\Statement of Accounts.exe
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20120927 SOA Source\20120927 SOA Source\obj\Debug\Statement of Accounts.xml
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20120927 SOA Source\20120927 SOA Source\obj\Debug\Statement of Accounts.pdb
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20120928 SOA Source\bin\Classes\DataSet\AccountBalance.xsd
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20120928 SOA Source\bin\Classes\DataSet\AccountBalance.Designer.vb
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20120928 SOA Source\bin\Classes\DataSet\AccountBalance.xsc
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20120928 SOA Source\bin\Classes\DataSet\AccountBalance.xss
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20120928 SOA Source\bin\Classes\DataSet\AccountBalance.xsx
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20120928 SOA Source\bin\Statement of Accounts.exe
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20120928 SOA Source\bin\Statement of Accounts.pdb
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20120928 SOA Source\bin\Statement of Accounts.xml
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20120928 SOA Source\bin\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20120928 SOA Source\bin\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20120928 SOA Source\obj\Debug\ResolveAssemblyReference.cache
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20120928 SOA Source\obj\Debug\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20120928 SOA Source\obj\Debug\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20120928 SOA Source\obj\Debug\Statement of Accounts.vbproj.ResolveComReference.cache
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20120928 SOA Source\obj\Debug\StatmentofAccount.AcctStatement.rpt
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20120928 SOA Source\obj\Debug\StatmentofAccount.AcctStatement_old1.rpt
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20120928 SOA Source\obj\Debug\StatmentofAccount.AcctStatement_SalesPerson.rpt
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20120928 SOA Source\obj\Debug\StatmentofAccount.frmReportViewer.resources
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20120928 SOA Source\obj\Debug\Statement of Accounts.vbproj.GenerateResource.Cache
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20120928 SOA Source\obj\Debug\Statement of Accounts.exe
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20120928 SOA Source\obj\Debug\Statement of Accounts.xml
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20120928 SOA Source\obj\Debug\Statement of Accounts.pdb
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121001 SOA Source\bin\Classes\DataSet\AccountBalance.xsd
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121001 SOA Source\bin\Classes\DataSet\AccountBalance.Designer.vb
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121001 SOA Source\bin\Classes\DataSet\AccountBalance.xsc
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121001 SOA Source\bin\Classes\DataSet\AccountBalance.xss
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121001 SOA Source\bin\Classes\DataSet\AccountBalance.xsx
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121001 SOA Source\bin\Statement of Accounts.exe
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121001 SOA Source\bin\Statement of Accounts.pdb
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121001 SOA Source\bin\Statement of Accounts.xml
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121001 SOA Source\bin\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121001 SOA Source\bin\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121001 SOA Source\obj\Debug\ResolveAssemblyReference.cache
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121001 SOA Source\obj\Debug\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121001 SOA Source\obj\Debug\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121001 SOA Source\obj\Debug\Statement of Accounts.vbproj.ResolveComReference.cache
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121001 SOA Source\obj\Debug\StatmentofAccount.AcctStatement.rpt
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121001 SOA Source\obj\Debug\StatmentofAccount.AcctStatement_old1.rpt
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121001 SOA Source\obj\Debug\StatmentofAccount.AcctStatement_SalesPerson.rpt
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121001 SOA Source\obj\Debug\StatmentofAccount.frmReportViewer.resources
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121001 SOA Source\obj\Debug\Statement of Accounts.vbproj.GenerateResource.Cache
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121001 SOA Source\obj\Debug\Statement of Accounts.exe
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121001 SOA Source\obj\Debug\Statement of Accounts.xml
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121001 SOA Source\obj\Debug\Statement of Accounts.pdb
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121002 SOA Source\bin\Classes\DataSet\AccountBalance.xsd
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121002 SOA Source\bin\Classes\DataSet\AccountBalance.Designer.vb
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121002 SOA Source\bin\Classes\DataSet\AccountBalance.xsc
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121002 SOA Source\bin\Classes\DataSet\AccountBalance.xss
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121002 SOA Source\bin\Classes\DataSet\AccountBalance.xsx
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121002 SOA Source\bin\Statement of Accounts.exe
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121002 SOA Source\bin\Statement of Accounts.pdb
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121002 SOA Source\bin\Statement of Accounts.xml
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121002 SOA Source\bin\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121002 SOA Source\bin\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121002 SOA Source\obj\Debug\ResolveAssemblyReference.cache
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121002 SOA Source\obj\Debug\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121002 SOA Source\obj\Debug\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121002 SOA Source\obj\Debug\Statement of Accounts.vbproj.ResolveComReference.cache
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121002 SOA Source\obj\Debug\StatmentofAccount.AcctStatement.rpt
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121002 SOA Source\obj\Debug\StatmentofAccount.AcctStatement_old1.rpt
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121002 SOA Source\obj\Debug\StatmentofAccount.AcctStatement_SalesPerson.rpt
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121002 SOA Source\obj\Debug\StatmentofAccount.frmReportViewer.resources
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121002 SOA Source\obj\Debug\Statement of Accounts.vbproj.GenerateResource.Cache
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121002 SOA Source\obj\Debug\Statement of Accounts.exe
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121002 SOA Source\obj\Debug\Statement of Accounts.xml
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121002 SOA Source\obj\Debug\Statement of Accounts.pdb
+C:\Users\Tony\Desktop\20121006 SOA Source\bin\Classes\DataSet\AccountBalance.xsd
+C:\Users\Tony\Desktop\20121006 SOA Source\bin\Classes\DataSet\AccountBalance.Designer.vb
+C:\Users\Tony\Desktop\20121006 SOA Source\bin\Classes\DataSet\AccountBalance.xsc
+C:\Users\Tony\Desktop\20121006 SOA Source\bin\Classes\DataSet\AccountBalance.xss
+C:\Users\Tony\Desktop\20121006 SOA Source\bin\Classes\DataSet\AccountBalance.xsx
+C:\Users\Tony\Desktop\20121006 SOA Source\bin\Statement of Accounts.exe
+C:\Users\Tony\Desktop\20121006 SOA Source\bin\Statement of Accounts.pdb
+C:\Users\Tony\Desktop\20121006 SOA Source\bin\Statement of Accounts.xml
+C:\Users\Tony\Desktop\20121006 SOA Source\bin\Interop.SAPbobsCOM.dll
+C:\Users\Tony\Desktop\20121006 SOA Source\bin\Interop.SAPbouiCOM.dll
+C:\Users\Tony\Desktop\20121006 SOA Source\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tony\Desktop\20121006 SOA Source\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\Tony\Desktop\20121006 SOA Source\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Users\Tony\Desktop\20121006 SOA Source\obj\Debug\Statement of Accounts.vbproj.ResolveComReference.cache
+C:\Users\Tony\Desktop\20121006 SOA Source\obj\Debug\StatmentofAccount.AcctStatement.rpt
+C:\Users\Tony\Desktop\20121006 SOA Source\obj\Debug\StatmentofAccount.AcctStatement_old1.rpt
+C:\Users\Tony\Desktop\20121006 SOA Source\obj\Debug\StatmentofAccount.AcctStatement_SalesPerson.rpt
+C:\Users\Tony\Desktop\20121006 SOA Source\obj\Debug\StatmentofAccount.frmReportViewer.resources
+C:\Users\Tony\Desktop\20121006 SOA Source\obj\Debug\Statement of Accounts.vbproj.GenerateResource.Cache
+C:\Users\Tony\Desktop\20121006 SOA Source\obj\Debug\Statement of Accounts.exe
+C:\Users\Tony\Desktop\20121006 SOA Source\obj\Debug\Statement of Accounts.xml
+C:\Users\Tony\Desktop\20121006 SOA Source\obj\Debug\Statement of Accounts.pdb
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121006 SOA Source\bin\Classes\DataSet\AccountBalance.xsd
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121006 SOA Source\bin\Classes\DataSet\AccountBalance.Designer.vb
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121006 SOA Source\bin\Classes\DataSet\AccountBalance.xsc
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121006 SOA Source\bin\Classes\DataSet\AccountBalance.xss
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121006 SOA Source\bin\Classes\DataSet\AccountBalance.xsx
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121006 SOA Source\bin\Statement of Accounts.exe
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121006 SOA Source\bin\Statement of Accounts.pdb
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121006 SOA Source\bin\Statement of Accounts.xml
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121006 SOA Source\bin\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121006 SOA Source\bin\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121006 SOA Source\obj\Debug\ResolveAssemblyReference.cache
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121006 SOA Source\obj\Debug\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121006 SOA Source\obj\Debug\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121006 SOA Source\obj\Debug\Statement of Accounts.vbproj.ResolveComReference.cache
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121006 SOA Source\obj\Debug\StatmentofAccount.AcctStatement.rpt
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121006 SOA Source\obj\Debug\StatmentofAccount.AcctStatement_old1.rpt
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121006 SOA Source\obj\Debug\StatmentofAccount.AcctStatement_SalesPerson.rpt
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121006 SOA Source\obj\Debug\StatmentofAccount.frmReportViewer.resources
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121006 SOA Source\obj\Debug\Statement of Accounts.vbproj.GenerateResource.Cache
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121006 SOA Source\obj\Debug\Statement of Accounts.exe
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121006 SOA Source\obj\Debug\Statement of Accounts.xml
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121006 SOA Source\obj\Debug\Statement of Accounts.pdb
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121023 SOA Source\bin\Classes\DataSet\AccountBalance.xsd
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121023 SOA Source\bin\Classes\DataSet\AccountBalance.Designer.vb
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121023 SOA Source\bin\Classes\DataSet\AccountBalance.xsc
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121023 SOA Source\bin\Classes\DataSet\AccountBalance.xss
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121023 SOA Source\bin\Classes\DataSet\AccountBalance.xsx
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121023 SOA Source\bin\Statement of Accounts.exe
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121023 SOA Source\bin\Statement of Accounts.pdb
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121023 SOA Source\bin\Statement of Accounts.xml
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121023 SOA Source\bin\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121023 SOA Source\bin\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121023 SOA Source\obj\Debug\ResolveAssemblyReference.cache
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121023 SOA Source\obj\Debug\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121023 SOA Source\obj\Debug\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121023 SOA Source\obj\Debug\Statement of Accounts.vbproj.ResolveComReference.cache
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121023 SOA Source\obj\Debug\StatmentofAccount.AcctStatement.rpt
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121023 SOA Source\obj\Debug\StatmentofAccount.AcctStatement_old1.rpt
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121023 SOA Source\obj\Debug\StatmentofAccount.AcctStatement_SalesPerson.rpt
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121023 SOA Source\obj\Debug\StatmentofAccount.frmReportViewer.resources
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121023 SOA Source\obj\Debug\Statement of Accounts.vbproj.GenerateResource.Cache
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121023 SOA Source\obj\Debug\Statement of Accounts.exe
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121023 SOA Source\obj\Debug\Statement of Accounts.xml
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121023 SOA Source\obj\Debug\Statement of Accounts.pdb
+C:\Users\Tony\Desktop\20121115 SOA Source\bin\Classes\DataSet\AccountBalance.xsd
+C:\Users\Tony\Desktop\20121115 SOA Source\bin\Classes\DataSet\AccountBalance.Designer.vb
+C:\Users\Tony\Desktop\20121115 SOA Source\bin\Classes\DataSet\AccountBalance.xsc
+C:\Users\Tony\Desktop\20121115 SOA Source\bin\Classes\DataSet\AccountBalance.xss
+C:\Users\Tony\Desktop\20121115 SOA Source\bin\Classes\DataSet\AccountBalance.xsx
+C:\Users\Tony\Desktop\20121115 SOA Source\bin\Statement of Accounts.exe
+C:\Users\Tony\Desktop\20121115 SOA Source\bin\Statement of Accounts.pdb
+C:\Users\Tony\Desktop\20121115 SOA Source\bin\Statement of Accounts.xml
+C:\Users\Tony\Desktop\20121115 SOA Source\bin\Interop.SAPbobsCOM.dll
+C:\Users\Tony\Desktop\20121115 SOA Source\bin\Interop.SAPbouiCOM.dll
+C:\Users\Tony\Desktop\20121115 SOA Source\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tony\Desktop\20121115 SOA Source\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\Tony\Desktop\20121115 SOA Source\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Users\Tony\Desktop\20121115 SOA Source\obj\Debug\Statement of Accounts.vbproj.ResolveComReference.cache
+C:\Users\Tony\Desktop\20121115 SOA Source\obj\Debug\StatmentofAccount.AcctStatement.rpt
+C:\Users\Tony\Desktop\20121115 SOA Source\obj\Debug\StatmentofAccount.AcctStatement_old1.rpt
+C:\Users\Tony\Desktop\20121115 SOA Source\obj\Debug\StatmentofAccount.AcctStatement_SalesPerson.rpt
+C:\Users\Tony\Desktop\20121115 SOA Source\obj\Debug\StatmentofAccount.frmReportViewer.resources
+C:\Users\Tony\Desktop\20121115 SOA Source\obj\Debug\Statement of Accounts.vbproj.GenerateResource.Cache
+C:\Users\Tony\Desktop\20121115 SOA Source\obj\Debug\Statement of Accounts.exe
+C:\Users\Tony\Desktop\20121115 SOA Source\obj\Debug\Statement of Accounts.xml
+C:\Users\Tony\Desktop\20121115 SOA Source\obj\Debug\Statement of Accounts.pdb
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121119 SOA Source\20121119 SOA Source\bin\Classes\DataSet\AccountBalance.xsd
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121119 SOA Source\20121119 SOA Source\bin\Classes\DataSet\AccountBalance.Designer.vb
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121119 SOA Source\20121119 SOA Source\bin\Classes\DataSet\AccountBalance.xsc
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121119 SOA Source\20121119 SOA Source\bin\Classes\DataSet\AccountBalance.xss
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121119 SOA Source\20121119 SOA Source\bin\Classes\DataSet\AccountBalance.xsx
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121119 SOA Source\20121119 SOA Source\bin\Statement of Accounts.exe
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121119 SOA Source\20121119 SOA Source\bin\Statement of Accounts.pdb
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121119 SOA Source\20121119 SOA Source\bin\Statement of Accounts.xml
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121119 SOA Source\20121119 SOA Source\bin\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121119 SOA Source\20121119 SOA Source\bin\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121119 SOA Source\20121119 SOA Source\obj\Debug\ResolveAssemblyReference.cache
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121119 SOA Source\20121119 SOA Source\obj\Debug\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121119 SOA Source\20121119 SOA Source\obj\Debug\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121119 SOA Source\20121119 SOA Source\obj\Debug\Statement of Accounts.vbproj.ResolveComReference.cache
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121119 SOA Source\20121119 SOA Source\obj\Debug\StatmentofAccount.AcctStatement.rpt
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121119 SOA Source\20121119 SOA Source\obj\Debug\StatmentofAccount.AcctStatement_old1.rpt
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121119 SOA Source\20121119 SOA Source\obj\Debug\StatmentofAccount.AcctStatement_SalesPerson.rpt
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121119 SOA Source\20121119 SOA Source\obj\Debug\StatmentofAccount.frmReportViewer.resources
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121119 SOA Source\20121119 SOA Source\obj\Debug\Statement of Accounts.vbproj.GenerateResource.Cache
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121119 SOA Source\20121119 SOA Source\obj\Debug\Statement of Accounts.exe
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121119 SOA Source\20121119 SOA Source\obj\Debug\Statement of Accounts.xml
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121119 SOA Source\20121119 SOA Source\obj\Debug\Statement of Accounts.pdb
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121120 SOA Source\20121120 SOA Source\bin\Classes\DataSet\AccountBalance.xsd
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121120 SOA Source\20121120 SOA Source\bin\Classes\DataSet\AccountBalance.Designer.vb
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121120 SOA Source\20121120 SOA Source\bin\Classes\DataSet\AccountBalance.xsc
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121120 SOA Source\20121120 SOA Source\bin\Classes\DataSet\AccountBalance.xss
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121120 SOA Source\20121120 SOA Source\bin\Classes\DataSet\AccountBalance.xsx
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121120 SOA Source\20121120 SOA Source\bin\Statement of Accounts.exe
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121120 SOA Source\20121120 SOA Source\bin\Statement of Accounts.pdb
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121120 SOA Source\20121120 SOA Source\bin\Statement of Accounts.xml
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121120 SOA Source\20121120 SOA Source\bin\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121120 SOA Source\20121120 SOA Source\bin\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121120 SOA Source\20121120 SOA Source\obj\Debug\ResolveAssemblyReference.cache
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121120 SOA Source\20121120 SOA Source\obj\Debug\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121120 SOA Source\20121120 SOA Source\obj\Debug\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121120 SOA Source\20121120 SOA Source\obj\Debug\Statement of Accounts.vbproj.ResolveComReference.cache
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121120 SOA Source\20121120 SOA Source\obj\Debug\StatmentofAccount.AcctStatement.rpt
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121120 SOA Source\20121120 SOA Source\obj\Debug\StatmentofAccount.AcctStatement_old1.rpt
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121120 SOA Source\20121120 SOA Source\obj\Debug\StatmentofAccount.AcctStatement_SalesPerson.rpt
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121120 SOA Source\20121120 SOA Source\obj\Debug\StatmentofAccount.frmReportViewer.resources
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121120 SOA Source\20121120 SOA Source\obj\Debug\Statement of Accounts.vbproj.GenerateResource.Cache
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121120 SOA Source\20121120 SOA Source\obj\Debug\Statement of Accounts.exe
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121120 SOA Source\20121120 SOA Source\obj\Debug\Statement of Accounts.xml
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121120 SOA Source\20121120 SOA Source\obj\Debug\Statement of Accounts.pdb
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121121 SOA Source\20121121 SOA Source\bin\Classes\DataSet\AccountBalance.xsd
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121121 SOA Source\20121121 SOA Source\bin\Classes\DataSet\AccountBalance.Designer.vb
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121121 SOA Source\20121121 SOA Source\bin\Classes\DataSet\AccountBalance.xsc
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121121 SOA Source\20121121 SOA Source\bin\Classes\DataSet\AccountBalance.xss
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121121 SOA Source\20121121 SOA Source\bin\Classes\DataSet\AccountBalance.xsx
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121121 SOA Source\20121121 SOA Source\bin\Statement of Accounts.exe
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121121 SOA Source\20121121 SOA Source\bin\Statement of Accounts.pdb
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121121 SOA Source\20121121 SOA Source\bin\Statement of Accounts.xml
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121121 SOA Source\20121121 SOA Source\bin\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121121 SOA Source\20121121 SOA Source\bin\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121121 SOA Source\20121121 SOA Source\obj\Debug\ResolveAssemblyReference.cache
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121121 SOA Source\20121121 SOA Source\obj\Debug\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121121 SOA Source\20121121 SOA Source\obj\Debug\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121121 SOA Source\20121121 SOA Source\obj\Debug\Statement of Accounts.vbproj.ResolveComReference.cache
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121121 SOA Source\20121121 SOA Source\obj\Debug\StatmentofAccount.AcctStatement.rpt
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121121 SOA Source\20121121 SOA Source\obj\Debug\StatmentofAccount.AcctStatement_old1.rpt
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121121 SOA Source\20121121 SOA Source\obj\Debug\StatmentofAccount.AcctStatement_SalesPerson.rpt
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121121 SOA Source\20121121 SOA Source\obj\Debug\StatmentofAccount.frmReportViewer.resources
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121121 SOA Source\20121121 SOA Source\obj\Debug\Statement of Accounts.vbproj.GenerateResource.Cache
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121121 SOA Source\20121121 SOA Source\obj\Debug\Statement of Accounts.exe
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121121 SOA Source\20121121 SOA Source\obj\Debug\Statement of Accounts.xml
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121121 SOA Source\20121121 SOA Source\obj\Debug\Statement of Accounts.pdb
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121122 SOA Source\20121122 SOA Source\bin\Classes\DataSet\AccountBalance.xsd
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121122 SOA Source\20121122 SOA Source\bin\Classes\DataSet\AccountBalance.Designer.vb
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121122 SOA Source\20121122 SOA Source\bin\Classes\DataSet\AccountBalance.xsc
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121122 SOA Source\20121122 SOA Source\bin\Classes\DataSet\AccountBalance.xss
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121122 SOA Source\20121122 SOA Source\bin\Classes\DataSet\AccountBalance.xsx
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121122 SOA Source\20121122 SOA Source\bin\Statement of Accounts.exe
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121122 SOA Source\20121122 SOA Source\bin\Statement of Accounts.pdb
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121122 SOA Source\20121122 SOA Source\bin\Statement of Accounts.xml
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121122 SOA Source\20121122 SOA Source\bin\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121122 SOA Source\20121122 SOA Source\bin\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121122 SOA Source\20121122 SOA Source\obj\Debug\ResolveAssemblyReference.cache
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121122 SOA Source\20121122 SOA Source\obj\Debug\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121122 SOA Source\20121122 SOA Source\obj\Debug\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121122 SOA Source\20121122 SOA Source\obj\Debug\Statement of Accounts.vbproj.ResolveComReference.cache
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121122 SOA Source\20121122 SOA Source\obj\Debug\StatmentofAccount.AcctStatement.rpt
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121122 SOA Source\20121122 SOA Source\obj\Debug\StatmentofAccount.AcctStatement_old1.rpt
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121122 SOA Source\20121122 SOA Source\obj\Debug\StatmentofAccount.AcctStatement_SalesPerson.rpt
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121122 SOA Source\20121122 SOA Source\obj\Debug\StatmentofAccount.frmReportViewer.resources
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121122 SOA Source\20121122 SOA Source\obj\Debug\Statement of Accounts.vbproj.GenerateResource.Cache
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121122 SOA Source\20121122 SOA Source\obj\Debug\Statement of Accounts.exe
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121122 SOA Source\20121122 SOA Source\obj\Debug\Statement of Accounts.xml
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121122 SOA Source\20121122 SOA Source\obj\Debug\Statement of Accounts.pdb
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121128 SOA Source\20121128 SOA Source\bin\Classes\DataSet\AccountBalance.xsd
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121128 SOA Source\20121128 SOA Source\bin\Classes\DataSet\AccountBalance.Designer.vb
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121128 SOA Source\20121128 SOA Source\bin\Classes\DataSet\AccountBalance.xsc
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121128 SOA Source\20121128 SOA Source\bin\Classes\DataSet\AccountBalance.xss
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121128 SOA Source\20121128 SOA Source\bin\Classes\DataSet\AccountBalance.xsx
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121128 SOA Source\20121128 SOA Source\bin\Statement of Accounts.exe
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121128 SOA Source\20121128 SOA Source\bin\Statement of Accounts.pdb
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121128 SOA Source\20121128 SOA Source\bin\Statement of Accounts.xml
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121128 SOA Source\20121128 SOA Source\bin\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121128 SOA Source\20121128 SOA Source\bin\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121128 SOA Source\20121128 SOA Source\obj\Debug\ResolveAssemblyReference.cache
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121128 SOA Source\20121128 SOA Source\obj\Debug\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121128 SOA Source\20121128 SOA Source\obj\Debug\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121128 SOA Source\20121128 SOA Source\obj\Debug\Statement of Accounts.vbproj.ResolveComReference.cache
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121128 SOA Source\20121128 SOA Source\obj\Debug\StatmentofAccount.AcctStatement.rpt
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121128 SOA Source\20121128 SOA Source\obj\Debug\StatmentofAccount.AcctStatement_old1.rpt
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121128 SOA Source\20121128 SOA Source\obj\Debug\StatmentofAccount.AcctStatement_SalesPerson.rpt
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121128 SOA Source\20121128 SOA Source\obj\Debug\StatmentofAccount.frmReportViewer.resources
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121128 SOA Source\20121128 SOA Source\obj\Debug\Statement of Accounts.vbproj.GenerateResource.Cache
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121128 SOA Source\20121128 SOA Source\obj\Debug\Statement of Accounts.exe
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121128 SOA Source\20121128 SOA Source\obj\Debug\Statement of Accounts.xml
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121128 SOA Source\20121128 SOA Source\obj\Debug\Statement of Accounts.pdb
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121202 SOA Source\bin\Classes\DataSet\AccountBalance.xsd
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121202 SOA Source\bin\Classes\DataSet\AccountBalance.Designer.vb
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121202 SOA Source\bin\Classes\DataSet\AccountBalance.xsc
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121202 SOA Source\bin\Classes\DataSet\AccountBalance.xss
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121202 SOA Source\bin\Classes\DataSet\AccountBalance.xsx
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121202 SOA Source\bin\Statement of Accounts.exe
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121202 SOA Source\bin\Statement of Accounts.pdb
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121202 SOA Source\bin\Statement of Accounts.xml
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121202 SOA Source\bin\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121202 SOA Source\bin\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121202 SOA Source\obj\Debug\ResolveAssemblyReference.cache
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121202 SOA Source\obj\Debug\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121202 SOA Source\obj\Debug\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121202 SOA Source\obj\Debug\Statement of Accounts.vbproj.ResolveComReference.cache
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121202 SOA Source\obj\Debug\StatmentofAccount.AcctStatement.rpt
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121202 SOA Source\obj\Debug\StatmentofAccount.AcctStatement_old1.rpt
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121202 SOA Source\obj\Debug\StatmentofAccount.AcctStatement_SalesPerson.rpt
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121202 SOA Source\obj\Debug\StatmentofAccount.frmReportViewer.resources
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121202 SOA Source\obj\Debug\Statement of Accounts.vbproj.GenerateResource.Cache
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121202 SOA Source\obj\Debug\Statement of Accounts.exe
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121202 SOA Source\obj\Debug\Statement of Accounts.xml
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20121202 SOA Source\obj\Debug\Statement of Accounts.pdb
+C:\Users\Tony\Desktop\20121202 SOA Source\20121202 SOA Source\bin\Classes\DataSet\AccountBalance.xsd
+C:\Users\Tony\Desktop\20121202 SOA Source\20121202 SOA Source\bin\Classes\DataSet\AccountBalance.Designer.vb
+C:\Users\Tony\Desktop\20121202 SOA Source\20121202 SOA Source\bin\Classes\DataSet\AccountBalance.xsc
+C:\Users\Tony\Desktop\20121202 SOA Source\20121202 SOA Source\bin\Classes\DataSet\AccountBalance.xss
+C:\Users\Tony\Desktop\20121202 SOA Source\20121202 SOA Source\bin\Classes\DataSet\AccountBalance.xsx
+C:\Users\Tony\Desktop\20121202 SOA Source\20121202 SOA Source\bin\Statement of Accounts.exe
+C:\Users\Tony\Desktop\20121202 SOA Source\20121202 SOA Source\bin\Statement of Accounts.pdb
+C:\Users\Tony\Desktop\20121202 SOA Source\20121202 SOA Source\bin\Statement of Accounts.xml
+C:\Users\Tony\Desktop\20121202 SOA Source\20121202 SOA Source\bin\Interop.SAPbobsCOM.dll
+C:\Users\Tony\Desktop\20121202 SOA Source\20121202 SOA Source\bin\Interop.SAPbouiCOM.dll
+C:\Users\Tony\Desktop\20121202 SOA Source\20121202 SOA Source\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tony\Desktop\20121202 SOA Source\20121202 SOA Source\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\Tony\Desktop\20121202 SOA Source\20121202 SOA Source\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Users\Tony\Desktop\20121202 SOA Source\20121202 SOA Source\obj\Debug\Statement of Accounts.vbproj.ResolveComReference.cache
+C:\Users\Tony\Desktop\20121202 SOA Source\20121202 SOA Source\obj\Debug\StatmentofAccount.AcctStatement.rpt
+C:\Users\Tony\Desktop\20121202 SOA Source\20121202 SOA Source\obj\Debug\StatmentofAccount.AcctStatement_old1.rpt
+C:\Users\Tony\Desktop\20121202 SOA Source\20121202 SOA Source\obj\Debug\StatmentofAccount.AcctStatement_SalesPerson.rpt
+C:\Users\Tony\Desktop\20121202 SOA Source\20121202 SOA Source\obj\Debug\StatmentofAccount.frmReportViewer.resources
+C:\Users\Tony\Desktop\20121202 SOA Source\20121202 SOA Source\obj\Debug\Statement of Accounts.vbproj.GenerateResource.Cache
+C:\Users\Tony\Desktop\20121202 SOA Source\20121202 SOA Source\obj\Debug\Statement of Accounts.exe
+C:\Users\Tony\Desktop\20121202 SOA Source\20121202 SOA Source\obj\Debug\Statement of Accounts.xml
+C:\Users\Tony\Desktop\20121202 SOA Source\20121202 SOA Source\obj\Debug\Statement of Accounts.pdb
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130213 SOA Source\20130213 SOA Source\bin\Classes\DataSet\AccountBalance.xsd
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130213 SOA Source\20130213 SOA Source\bin\Classes\DataSet\AccountBalance.Designer.vb
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130213 SOA Source\20130213 SOA Source\bin\Classes\DataSet\AccountBalance.xsc
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130213 SOA Source\20130213 SOA Source\bin\Classes\DataSet\AccountBalance.xss
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130213 SOA Source\20130213 SOA Source\bin\Classes\DataSet\AccountBalance.xsx
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130213 SOA Source\20130213 SOA Source\bin\Statement of Accounts.exe
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130213 SOA Source\20130213 SOA Source\bin\Statement of Accounts.pdb
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130213 SOA Source\20130213 SOA Source\bin\Statement of Accounts.xml
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130213 SOA Source\20130213 SOA Source\bin\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130213 SOA Source\20130213 SOA Source\bin\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130213 SOA Source\20130213 SOA Source\obj\Debug\ResolveAssemblyReference.cache
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130213 SOA Source\20130213 SOA Source\obj\Debug\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130213 SOA Source\20130213 SOA Source\obj\Debug\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130213 SOA Source\20130213 SOA Source\obj\Debug\Statement of Accounts.vbproj.ResolveComReference.cache
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130213 SOA Source\20130213 SOA Source\obj\Debug\StatmentofAccount.AcctStatement.rpt
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130213 SOA Source\20130213 SOA Source\obj\Debug\StatmentofAccount.AcctStatement_old1.rpt
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130213 SOA Source\20130213 SOA Source\obj\Debug\StatmentofAccount.AcctStatement_SalesPerson.rpt
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130213 SOA Source\20130213 SOA Source\obj\Debug\StatmentofAccount.frmReportViewer.resources
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130213 SOA Source\20130213 SOA Source\obj\Debug\Statement of Accounts.vbproj.GenerateResource.Cache
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130213 SOA Source\20130213 SOA Source\obj\Debug\Statement of Accounts.exe
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130213 SOA Source\20130213 SOA Source\obj\Debug\Statement of Accounts.xml
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130213 SOA Source\20130213 SOA Source\obj\Debug\Statement of Accounts.pdb
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130214 SOA Source\20130214 SOA Source\bin\Classes\DataSet\AccountBalance.xsd
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130214 SOA Source\20130214 SOA Source\bin\Classes\DataSet\AccountBalance.Designer.vb
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130214 SOA Source\20130214 SOA Source\bin\Classes\DataSet\AccountBalance.xsc
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130214 SOA Source\20130214 SOA Source\bin\Classes\DataSet\AccountBalance.xss
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130214 SOA Source\20130214 SOA Source\bin\Classes\DataSet\AccountBalance.xsx
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130214 SOA Source\20130214 SOA Source\bin\Statement of Accounts.exe
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130214 SOA Source\20130214 SOA Source\bin\Statement of Accounts.pdb
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130214 SOA Source\20130214 SOA Source\bin\Statement of Accounts.xml
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130214 SOA Source\20130214 SOA Source\bin\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130214 SOA Source\20130214 SOA Source\bin\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130214 SOA Source\20130214 SOA Source\obj\Debug\ResolveAssemblyReference.cache
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130214 SOA Source\20130214 SOA Source\obj\Debug\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130214 SOA Source\20130214 SOA Source\obj\Debug\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130214 SOA Source\20130214 SOA Source\obj\Debug\Statement of Accounts.vbproj.ResolveComReference.cache
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130214 SOA Source\20130214 SOA Source\obj\Debug\StatmentofAccount.AcctStatement.rpt
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130214 SOA Source\20130214 SOA Source\obj\Debug\StatmentofAccount.AcctStatement_old1.rpt
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130214 SOA Source\20130214 SOA Source\obj\Debug\StatmentofAccount.AcctStatement_SalesPerson.rpt
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130214 SOA Source\20130214 SOA Source\obj\Debug\StatmentofAccount.frmReportViewer.resources
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130214 SOA Source\20130214 SOA Source\obj\Debug\Statement of Accounts.vbproj.GenerateResource.Cache
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130214 SOA Source\20130214 SOA Source\obj\Debug\Statement of Accounts.exe
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130214 SOA Source\20130214 SOA Source\obj\Debug\Statement of Accounts.xml
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130214 SOA Source\20130214 SOA Source\obj\Debug\Statement of Accounts.pdb
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130218 SOA Source\20130218 SOA Source\obj\Debug\ResolveAssemblyReference.cache
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130218 SOA Source\20130218 SOA Source\obj\Debug\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130218 SOA Source\20130218 SOA Source\obj\Debug\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130218 SOA Source\20130218 SOA Source\obj\Debug\Statement of Accounts.vbproj.ResolveComReference.cache
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130218 SOA Source\20130218 SOA Source\obj\Debug\StatmentofAccount.AcctStatement.rpt
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130218 SOA Source\20130218 SOA Source\obj\Debug\StatmentofAccount.AcctStatement_old1.rpt
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130218 SOA Source\20130218 SOA Source\obj\Debug\StatmentofAccount.AcctStatement_SalesPerson.rpt
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130218 SOA Source\20130218 SOA Source\obj\Debug\StatmentofAccount.frmReportViewer.resources
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130218 SOA Source\20130218 SOA Source\obj\Debug\Statement of Accounts.vbproj.GenerateResource.Cache
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130218 SOA Source\20130218 SOA Source\obj\Debug\Statement of Accounts.exe
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130218 SOA Source\20130218 SOA Source\obj\Debug\Statement of Accounts.xml
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130218 SOA Source\20130218 SOA Source\obj\Debug\Statement of Accounts.pdb
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130218 SOA Source\20130218 SOA Source\bin\Classes\DataSet\AccountBalance.xsd
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130218 SOA Source\20130218 SOA Source\bin\Classes\DataSet\AccountBalance.Designer.vb
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130218 SOA Source\20130218 SOA Source\bin\Classes\DataSet\AccountBalance.xsc
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130218 SOA Source\20130218 SOA Source\bin\Classes\DataSet\AccountBalance.xss
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130218 SOA Source\20130218 SOA Source\bin\Classes\DataSet\AccountBalance.xsx
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130218 SOA Source\20130218 SOA Source\bin\Statement of Accounts.exe
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130218 SOA Source\20130218 SOA Source\bin\Statement of Accounts.pdb
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130218 SOA Source\20130218 SOA Source\bin\Statement of Accounts.xml
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130218 SOA Source\20130218 SOA Source\bin\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130218 SOA Source\20130218 SOA Source\bin\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130228 SOA Source\20130228 SOA Source\bin\Classes\DataSet\AccountBalance.xsd
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130228 SOA Source\20130228 SOA Source\bin\Classes\DataSet\AccountBalance.Designer.vb
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130228 SOA Source\20130228 SOA Source\bin\Classes\DataSet\AccountBalance.xsc
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130228 SOA Source\20130228 SOA Source\bin\Classes\DataSet\AccountBalance.xss
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130228 SOA Source\20130228 SOA Source\bin\Classes\DataSet\AccountBalance.xsx
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130228 SOA Source\20130228 SOA Source\bin\Statement of Accounts.exe
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130228 SOA Source\20130228 SOA Source\bin\Statement of Accounts.pdb
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130228 SOA Source\20130228 SOA Source\bin\Statement of Accounts.xml
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130228 SOA Source\20130228 SOA Source\bin\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130228 SOA Source\20130228 SOA Source\bin\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130228 SOA Source\20130228 SOA Source\obj\Debug\ResolveAssemblyReference.cache
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130228 SOA Source\20130228 SOA Source\obj\Debug\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130228 SOA Source\20130228 SOA Source\obj\Debug\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130228 SOA Source\20130228 SOA Source\obj\Debug\Statement of Accounts.vbproj.ResolveComReference.cache
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130228 SOA Source\20130228 SOA Source\obj\Debug\StatmentofAccount.AcctStatement.rpt
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130228 SOA Source\20130228 SOA Source\obj\Debug\StatmentofAccount.AcctStatement_old1.rpt
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130228 SOA Source\20130228 SOA Source\obj\Debug\StatmentofAccount.AcctStatement_SalesPerson.rpt
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130228 SOA Source\20130228 SOA Source\obj\Debug\StatmentofAccount.frmReportViewer.resources
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130228 SOA Source\20130228 SOA Source\obj\Debug\Statement of Accounts.vbproj.GenerateResource.Cache
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130228 SOA Source\20130228 SOA Source\obj\Debug\Statement of Accounts.exe
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130228 SOA Source\20130228 SOA Source\obj\Debug\Statement of Accounts.xml
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Statement of Accounts_Source\20130228 SOA Source\20130228 SOA Source\obj\Debug\Statement of Accounts.pdb

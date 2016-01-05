@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<Application>
+	<Menus>
+		<action type="Remove">
+			<Menu UniqueID="DABT_701" />
+		</action>
+	</Menus>
+</Application>

@@ -1,0 +1,76 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PricingFeature
+</name>
+</assembly>
+<members>
+<member name="T:PricingFeature.BillDiscounting.HeaderDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PricingFeature.BillDiscounting.DetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PricingFeature.BillDiscounting.AccountBalanceDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PricingFeature.BillDiscounting.SOHeaderDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PricingFeature.BillDiscounting.HeaderRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PricingFeature.BillDiscounting.DetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PricingFeature.BillDiscounting.AccountBalanceRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PricingFeature.BillDiscounting.SOHeaderRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PricingFeature.BillDiscounting.HeaderRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PricingFeature.BillDiscounting.DetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PricingFeature.BillDiscounting.AccountBalanceRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PricingFeature.BillDiscounting.SOHeaderRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PricingFeature.BillDiscounting">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="P:PricingFeature.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:PricingFeature.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:PricingFeature.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

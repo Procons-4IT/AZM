@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Application>
+ <Menus>
+  <action type="add">
+   <Menu Checked="0" Enabled="1" FatherUID="43535" Position="1" String="Statement of Account " Type="1" UniqueID="DABT_701" >
+     </Menu>
+  </action>
+ </Menus>
+</Application>

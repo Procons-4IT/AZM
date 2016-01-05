@@ -1,0 +1,25 @@
+SCC = This is a Source Code Control file
+
+[SCR.sln]
+SCC_Aux_Path = "\\192.168.1.23\vss\"
+SCC_Project_Name = "$/SAP/SAP/US/B1st01", DNTAAAAA
+
+[SCR.vbproj]
+SCC_Aux_Path = "\\192.168.1.23\vss\"
+SCC_Project_Name = "$/SAP/SAP/US/B1st01", DNTAAAAA
+
+[B1st01.sln]
+SCC_Aux_Path = "\\192.168.1.23\vss\"
+SCC_Project_Name = "$/SAP/SAP/US/B1st01", DNTAAAAA
+
+[B1st01.vbproj]
+SCC_Aux_Path = "\\192.168.1.23\vss\"
+SCC_Project_Name = "$/SAP/SAP/US/B1st01", DNTAAAAA
+
+[DSSRef02.sln]
+SCC_Aux_Path = "\\192.168.1.23\vss\"
+SCC_Project_Name = "$/SAP/SAP/Europe/DSSRef02", JFUAAAAA
+
+[DSSRef02.vbproj]
+SCC_Aux_Path = "\\192.168.1.23\vss\"
+SCC_Project_Name = "$/SAP/SAP/Europe/DSSRef02", JFUAAAAA

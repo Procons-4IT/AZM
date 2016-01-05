@@ -1,0 +1,42 @@
+C:\Projects\Statement of Accounts\20131010 SOA Source_1.3.13\bin\Classes\DataSet\AccountBalance.xsd
+C:\Projects\Statement of Accounts\20131010 SOA Source_1.3.13\bin\Classes\DataSet\AccountBalance.Designer.vb
+C:\Projects\Statement of Accounts\20131010 SOA Source_1.3.13\bin\Classes\DataSet\AccountBalance.xsc
+C:\Projects\Statement of Accounts\20131010 SOA Source_1.3.13\bin\Classes\DataSet\AccountBalance.xss
+C:\Projects\Statement of Accounts\20131010 SOA Source_1.3.13\bin\Classes\DataSet\AccountBalance.xsx
+C:\Projects\Statement of Accounts\20131010 SOA Source_1.3.13\bin\Statement of Accounts.exe
+C:\Projects\Statement of Accounts\20131010 SOA Source_1.3.13\bin\Statement of Accounts.pdb
+C:\Projects\Statement of Accounts\20131010 SOA Source_1.3.13\bin\Statement of Accounts.xml
+C:\Projects\Statement of Accounts\20131010 SOA Source_1.3.13\bin\Interop.SAPbobsCOM.dll
+C:\Projects\Statement of Accounts\20131010 SOA Source_1.3.13\bin\Interop.SAPbouiCOM.dll
+C:\Projects\Statement of Accounts\20131010 SOA Source_1.3.13\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Statement of Accounts\20131010 SOA Source_1.3.13\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Projects\Statement of Accounts\20131010 SOA Source_1.3.13\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Projects\Statement of Accounts\20131010 SOA Source_1.3.13\obj\Debug\Statement of Accounts.vbproj.ResolveComReference.cache
+C:\Projects\Statement of Accounts\20131010 SOA Source_1.3.13\obj\Debug\StatmentofAccount.frmReportViewer.resources
+C:\Projects\Statement of Accounts\20131010 SOA Source_1.3.13\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Projects\Statement of Accounts\20131010 SOA Source_1.3.13\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Projects\Statement of Accounts\20131010 SOA Source_1.3.13\obj\Debug\Statement of Accounts.exe
+C:\Projects\Statement of Accounts\20131010 SOA Source_1.3.13\obj\Debug\Statement of Accounts.xml
+C:\Projects\Statement of Accounts\20131010 SOA Source_1.3.13\obj\Debug\Statement of Accounts.pdb
+C:\Users\LENOVO\Desktop\20141125 SOA Source_1.3.15\bin\Classes\DataSet\AccountBalance.xsd
+C:\Users\LENOVO\Desktop\20141125 SOA Source_1.3.15\bin\Classes\DataSet\AccountBalance.Designer.vb
+C:\Users\LENOVO\Desktop\20141125 SOA Source_1.3.15\bin\Classes\DataSet\AccountBalance.xsc
+C:\Users\LENOVO\Desktop\20141125 SOA Source_1.3.15\bin\Classes\DataSet\AccountBalance.xss
+C:\Users\LENOVO\Desktop\20141125 SOA Source_1.3.15\bin\Classes\DataSet\AccountBalance.xsx
+C:\Users\LENOVO\Desktop\20141125 SOA Source_1.3.15\bin\Statement of Accounts.exe
+C:\Users\LENOVO\Desktop\20141125 SOA Source_1.3.15\bin\Statement of Accounts.pdb
+C:\Users\LENOVO\Desktop\20141125 SOA Source_1.3.15\bin\Statement of Accounts.xml
+C:\Users\LENOVO\Desktop\20141125 SOA Source_1.3.15\bin\Interop.SAPbobsCOM.dll
+C:\Users\LENOVO\Desktop\20141125 SOA Source_1.3.15\bin\Interop.SAPbouiCOM.dll
+C:\Users\LENOVO\Desktop\20141125 SOA Source_1.3.15\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LENOVO\Desktop\20141125 SOA Source_1.3.15\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\LENOVO\Desktop\20141125 SOA Source_1.3.15\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Users\LENOVO\Desktop\20141125 SOA Source_1.3.15\obj\Debug\Statement of Accounts.vbproj.ResolveComReference.cache
+C:\Users\LENOVO\Desktop\20141125 SOA Source_1.3.15\obj\Debug\StatmentofAccount.frmReportViewer.resources
+C:\Users\LENOVO\Desktop\20141125 SOA Source_1.3.15\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\LENOVO\Desktop\20141125 SOA Source_1.3.15\obj\Debug\ResGen.read.1.tlog
+C:\Users\LENOVO\Desktop\20141125 SOA Source_1.3.15\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\LENOVO\Desktop\20141125 SOA Source_1.3.15\obj\Debug\ResGen.write.1.tlog
+C:\Users\LENOVO\Desktop\20141125 SOA Source_1.3.15\obj\Debug\Statement of Accounts.exe
+C:\Users\LENOVO\Desktop\20141125 SOA Source_1.3.15\obj\Debug\Statement of Accounts.xml
+C:\Users\LENOVO\Desktop\20141125 SOA Source_1.3.15\obj\Debug\Statement of Accounts.pdb

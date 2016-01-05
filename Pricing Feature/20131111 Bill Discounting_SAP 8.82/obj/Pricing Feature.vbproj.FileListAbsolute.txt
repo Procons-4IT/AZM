@@ -1,0 +1,80 @@
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Source Code\New Change_Testing\20130509 Bill Discounting_SAP 8.82\bin\Debug\Pricing Feature.exe
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Source Code\New Change_Testing\20130509 Bill Discounting_SAP 8.82\bin\Debug\Pricing Feature.pdb
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Source Code\New Change_Testing\20130509 Bill Discounting_SAP 8.82\bin\Debug\Pricing Feature.xml
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Source Code\New Change_Testing\20130509 Bill Discounting_SAP 8.82\bin\Debug\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Source Code\New Change_Testing\20130509 Bill Discounting_SAP 8.82\bin\Debug\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Source Code\New Change_Testing\20130509 Bill Discounting_SAP 8.82\bin\Debug\Interop.Scripting.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Source Code\New Change_Testing\20130509 Bill Discounting_SAP 8.82\obj\Debug\ResolveAssemblyReference.cache
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Source Code\New Change_Testing\20130509 Bill Discounting_SAP 8.82\obj\Debug\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Source Code\New Change_Testing\20130509 Bill Discounting_SAP 8.82\obj\Debug\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Source Code\New Change_Testing\20130509 Bill Discounting_SAP 8.82\obj\Debug\Interop.Scripting.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Source Code\New Change_Testing\20130509 Bill Discounting_SAP 8.82\obj\Debug\Pricing Feature.vbproj.ResolveComReference.cache
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Source Code\New Change_Testing\20130509 Bill Discounting_SAP 8.82\obj\Debug\PricingFeature.BillDiscounting_RPT.rpt
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Source Code\New Change_Testing\20130509 Bill Discounting_SAP 8.82\obj\Debug\PricingFeature.Copy of SOAccounts.rpt
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Source Code\New Change_Testing\20130509 Bill Discounting_SAP 8.82\obj\Debug\PricingFeature.SOAccounts.rpt
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Source Code\New Change_Testing\20130509 Bill Discounting_SAP 8.82\obj\Debug\PricingFeature.frmReportViewer.resources
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Source Code\New Change_Testing\20130509 Bill Discounting_SAP 8.82\obj\Debug\PricingFeature.Resources.resources
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Source Code\New Change_Testing\20130509 Bill Discounting_SAP 8.82\obj\Debug\Pricing Feature.vbproj.GenerateResource.Cache
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Source Code\New Change_Testing\20130509 Bill Discounting_SAP 8.82\obj\Debug\Pricing Feature.exe
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Source Code\New Change_Testing\20130509 Bill Discounting_SAP 8.82\obj\Debug\Pricing Feature.xml
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Source Code\New Change_Testing\20130509 Bill Discounting_SAP 8.82\obj\Debug\Pricing Feature.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Billing Discount AZM\Pricing Feature\20131023  Bill Discounting_SAP 8.82\obj\Debug\Pricing Feature.exe
+G:\International Projects_SAP9.0\Procons-4IT\Billing Discount AZM\Pricing Feature\20131023  Bill Discounting_SAP 8.82\obj\Debug\Pricing Feature.xml
+G:\International Projects_SAP9.0\Procons-4IT\Billing Discount AZM\Pricing Feature\20131023  Bill Discounting_SAP 8.82\obj\Debug\Pricing Feature.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Billing Discount AZM\Pricing Feature\20131023  Bill Discounting_SAP 8.82\bin\Debug\Pricing Feature.exe
+G:\International Projects_SAP9.0\Procons-4IT\Billing Discount AZM\Pricing Feature\20131023  Bill Discounting_SAP 8.82\bin\Debug\Pricing Feature.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Billing Discount AZM\Pricing Feature\20131023  Bill Discounting_SAP 8.82\bin\Debug\Pricing Feature.xml
+G:\International Projects_SAP9.0\Procons-4IT\Billing Discount AZM\Pricing Feature\20131023  Bill Discounting_SAP 8.82\bin\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Billing Discount AZM\Pricing Feature\20131023  Bill Discounting_SAP 8.82\bin\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Billing Discount AZM\Pricing Feature\20131023  Bill Discounting_SAP 8.82\bin\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Billing Discount AZM\Pricing Feature\20131023  Bill Discounting_SAP 8.82\obj\Debug\ResolveAssemblyReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Billing Discount AZM\Pricing Feature\20131023  Bill Discounting_SAP 8.82\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Billing Discount AZM\Pricing Feature\20131023  Bill Discounting_SAP 8.82\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Billing Discount AZM\Pricing Feature\20131023  Bill Discounting_SAP 8.82\obj\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Billing Discount AZM\Pricing Feature\20131023  Bill Discounting_SAP 8.82\obj\Debug\Pricing Feature.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Billing Discount AZM\Pricing Feature\20131023  Bill Discounting_SAP 8.82\obj\Debug\PricingFeature.BillDiscounting_RPT.rpt
+G:\International Projects_SAP9.0\Procons-4IT\Billing Discount AZM\Pricing Feature\20131023  Bill Discounting_SAP 8.82\obj\Debug\PricingFeature.Copy of SOAccounts.rpt
+G:\International Projects_SAP9.0\Procons-4IT\Billing Discount AZM\Pricing Feature\20131023  Bill Discounting_SAP 8.82\obj\Debug\PricingFeature.SOAccounts.rpt
+G:\International Projects_SAP9.0\Procons-4IT\Billing Discount AZM\Pricing Feature\20131023  Bill Discounting_SAP 8.82\obj\Debug\PricingFeature.frmReportViewer.resources
+G:\International Projects_SAP9.0\Procons-4IT\Billing Discount AZM\Pricing Feature\20131023  Bill Discounting_SAP 8.82\obj\Debug\PricingFeature.Resources.resources
+G:\International Projects_SAP9.0\Procons-4IT\Billing Discount AZM\Pricing Feature\20131023  Bill Discounting_SAP 8.82\obj\Debug\Pricing Feature.vbproj.GenerateResource.Cache
+G:\International Projects_SAP9.0\Procons-4IT\Billing Discount AZM\Pricing Feature\20131111 Bill Discounting_SAP 8.82\obj\Debug\Pricing Feature.xml
+G:\International Projects_SAP9.0\Procons-4IT\Billing Discount AZM\Pricing Feature\20131111 Bill Discounting_SAP 8.82\obj\Debug\Pricing Feature.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Billing Discount AZM\Pricing Feature\20131111 Bill Discounting_SAP 8.82\bin\Debug\Pricing Feature.exe
+G:\International Projects_SAP9.0\Procons-4IT\Billing Discount AZM\Pricing Feature\20131111 Bill Discounting_SAP 8.82\bin\Debug\Pricing Feature.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Billing Discount AZM\Pricing Feature\20131111 Bill Discounting_SAP 8.82\bin\Debug\Pricing Feature.xml
+G:\International Projects_SAP9.0\Procons-4IT\Billing Discount AZM\Pricing Feature\20131111 Bill Discounting_SAP 8.82\bin\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Billing Discount AZM\Pricing Feature\20131111 Bill Discounting_SAP 8.82\bin\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Billing Discount AZM\Pricing Feature\20131111 Bill Discounting_SAP 8.82\bin\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Billing Discount AZM\Pricing Feature\20131111 Bill Discounting_SAP 8.82\obj\Debug\ResolveAssemblyReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Billing Discount AZM\Pricing Feature\20131111 Bill Discounting_SAP 8.82\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Billing Discount AZM\Pricing Feature\20131111 Bill Discounting_SAP 8.82\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Billing Discount AZM\Pricing Feature\20131111 Bill Discounting_SAP 8.82\obj\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Billing Discount AZM\Pricing Feature\20131111 Bill Discounting_SAP 8.82\obj\Debug\Pricing Feature.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Billing Discount AZM\Pricing Feature\20131111 Bill Discounting_SAP 8.82\obj\Debug\PricingFeature.BillDiscounting_RPT.rpt
+G:\International Projects_SAP9.0\Procons-4IT\Billing Discount AZM\Pricing Feature\20131111 Bill Discounting_SAP 8.82\obj\Debug\PricingFeature.Copy of SOAccounts.rpt
+G:\International Projects_SAP9.0\Procons-4IT\Billing Discount AZM\Pricing Feature\20131111 Bill Discounting_SAP 8.82\obj\Debug\PricingFeature.SOAccounts.rpt
+G:\International Projects_SAP9.0\Procons-4IT\Billing Discount AZM\Pricing Feature\20131111 Bill Discounting_SAP 8.82\obj\Debug\PricingFeature.frmReportViewer.resources
+G:\International Projects_SAP9.0\Procons-4IT\Billing Discount AZM\Pricing Feature\20131111 Bill Discounting_SAP 8.82\obj\Debug\PricingFeature.Resources.resources
+G:\International Projects_SAP9.0\Procons-4IT\Billing Discount AZM\Pricing Feature\20131111 Bill Discounting_SAP 8.82\obj\Debug\Pricing Feature.vbproj.GenerateResource.Cache
+G:\International Projects_SAP9.0\Procons-4IT\Billing Discount AZM\Pricing Feature\20131111 Bill Discounting_SAP 8.82\obj\Debug\Pricing Feature.exe
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Pricing Feature\20131111 Bill Discounting_SAP 8.82\obj\Debug\Pricing Feature.exe
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Pricing Feature\20131111 Bill Discounting_SAP 8.82\obj\Debug\Pricing Feature.xml
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Pricing Feature\20131111 Bill Discounting_SAP 8.82\obj\Debug\Pricing Feature.pdb
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Pricing Feature\20131111 Bill Discounting_SAP 8.82\bin\Debug\Pricing Feature.exe
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Pricing Feature\20131111 Bill Discounting_SAP 8.82\bin\Debug\Pricing Feature.pdb
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Pricing Feature\20131111 Bill Discounting_SAP 8.82\bin\Debug\Pricing Feature.xml
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Pricing Feature\20131111 Bill Discounting_SAP 8.82\bin\Debug\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Pricing Feature\20131111 Bill Discounting_SAP 8.82\bin\Debug\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Pricing Feature\20131111 Bill Discounting_SAP 8.82\bin\Debug\Interop.Scripting.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Pricing Feature\20131111 Bill Discounting_SAP 8.82\obj\Debug\ResolveAssemblyReference.cache
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Pricing Feature\20131111 Bill Discounting_SAP 8.82\obj\Debug\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Pricing Feature\20131111 Bill Discounting_SAP 8.82\obj\Debug\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Pricing Feature\20131111 Bill Discounting_SAP 8.82\obj\Debug\Interop.Scripting.dll
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Pricing Feature\20131111 Bill Discounting_SAP 8.82\obj\Debug\Pricing Feature.vbproj.ResolveComReference.cache
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Pricing Feature\20131111 Bill Discounting_SAP 8.82\obj\Debug\PricingFeature.BillDiscounting_RPT.rpt
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Pricing Feature\20131111 Bill Discounting_SAP 8.82\obj\Debug\PricingFeature.Copy of SOAccounts.rpt
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Pricing Feature\20131111 Bill Discounting_SAP 8.82\obj\Debug\PricingFeature.SOAccounts.rpt
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Pricing Feature\20131111 Bill Discounting_SAP 8.82\obj\Debug\PricingFeature.frmReportViewer.resources
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Pricing Feature\20131111 Bill Discounting_SAP 8.82\obj\Debug\PricingFeature.Resources.resources
+E:\InterNational Business Projects\Procons-4it\Bill Discounting\Pricing Feature\20131111 Bill Discounting_SAP 8.82\obj\Debug\Pricing Feature.vbproj.GenerateResource.Cache

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+StatementofAccounts
+</name>
+</assembly>
+<members>
+<member name="T:StatmentofAccount.AccountBalance.AccountBalanceDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:StatmentofAccount.AccountBalance.PDCDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:StatmentofAccount.AccountBalance.HeaderDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:StatmentofAccount.AccountBalance.AccountBalanceRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:StatmentofAccount.AccountBalance.PDCRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:StatmentofAccount.AccountBalance.HeaderRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:StatmentofAccount.AccountBalance.AccountBalanceRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:StatmentofAccount.AccountBalance.PDCRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:StatmentofAccount.AccountBalance.HeaderRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:StatmentofAccount.AccountBalance">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+</members>
+</doc>
